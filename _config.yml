@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Deepika Thapa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/deepikathapa.jpg"
   bio              : "I am a developer"
   location         : "India"
   email            :
